@@ -7,7 +7,7 @@ PHP MVC untuk web (Belum sempurna), buatan sendiri
 
 **Note :** saya menggunakan **mysqli** Database API
 
-## config {$cf}
+## config {#cf}
 File config ada di `app/config.php`<br>
 isinya mungkin seperti ini
 
