@@ -1,0 +1,19 @@
+Halo !
+
+Info :
+- Beberapa fitur mungkin error/tidak dapat digunakan
+- Ini adalah desain awal & sebagai pengingat bahwa saya(pembuat) telah membuat ini 
+- Config file ada di app/config.php
+- maaf, belum ada tutorial lanjutan, semoga kedepannya saya berhasil membuatnya
+
+
+
+
+
+
+
+
+Terima Kasih telah mendownload ini !
+Semoga Harimu menyenangkan :)
+
+~N.R 
