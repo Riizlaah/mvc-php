@@ -7,7 +7,7 @@ PHP MVC untuk web (Belum sempurna), buatan sendiri
 
 **Note :** saya menggunakan **mysqli** Database API
 
-## config {#cf}
+## config {#cf-f}
 File config ada di `app/config.php`<br>
 isinya mungkin seperti ini
 
@@ -33,7 +33,7 @@ konfigurasikan sesuai web anda
 Langkah instalasinya sebagai berikut :
 1. Download .zip file <a href="https://raw.githubusercontent.com/Riizlaah/mvc-php/main/mvp.zip">Disini</a> 
 2. Upload dan ekstrak .zip file di ftp server untuk web anda, lokasi upload seharusnya `htdocs/mvp.zip` 
-3. setelah diekstrak [konfigurasikan](#cf) sesuai kebutuhan.
+3. setelah diekstrak [konfigurasikan](#cf-f) sesuai kebutuhan.
 4. Selesai
 
 **Maaf, belum ada tutorial lebih lanjut, semoga membantu**
