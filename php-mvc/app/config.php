@@ -1,13 +1,13 @@
 <?php
   //File Konfigurasi
   //Url web
-  define('BASEURL', 'https://nrweb.eu.org/');
+  define('BASEURL', 'https://websitemu.com/');
   
-  //db info
-  define('HOST', 'localhost');
-  define('DB_USER', 'root');
-  define('DB_PASS', 'root');
-  define('DB_NAME', 'heker');
+  //db info (MySQL)
+  define('HOST', 'localhost'); //DB host 
+  define('DB_USER', 'root'); //DB username
+  define('DB_PASS', 'root'); //DB Password
+  define('DB_NAME', 'heker'); // nama Database
   
   
 ?>
